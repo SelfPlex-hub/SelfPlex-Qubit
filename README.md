@@ -1,3 +1,6 @@
+**Current status (November 2025):**  
+Discovery and replication of the **Microsaccadic Priming Collapse (MPC)** — the universal neural signature of entry into non-dual / ego-dissolved states and its absence under general anesthesia.
+
 # The SelfPlex Project: Phenomenological Superposition and a Topological Model of Consciousness
 
 This repository contains code and experiments for a working research program on
